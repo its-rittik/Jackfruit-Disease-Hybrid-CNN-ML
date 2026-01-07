@@ -1,0 +1,26 @@
+# Core Data Science and Data Manipulation
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Deep Learning and Feature Extraction backbones
+tensorflow>=2.7.0
+keras>=2.7.0
+
+# Feature Optimization (PCA and SMOTE)
+scikit-learn>=1.0.0
+imbalanced-learn>=0.8.0
+
+# Machine Learning Classifiers for Ensemble
+xgboost>=1.5.0
+catboost>=1.0.0
+lightgbm>=3.3.0
+
+# Image Processing and Quality Evaluation
+opencv-python>=4.5.0
+Pillow>=8.0.0
+scikit-image>=0.18.0
+
+# Meta-Model Stacking
+joblib>=1.1.0
